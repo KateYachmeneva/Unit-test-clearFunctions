@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/o4bbp173nx5lp3kg/branch/master?svg=true)](https://ci.appveyor.com/project/KateYachmeneva/unit-test-clearfunctions/branch/master)
